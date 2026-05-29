@@ -1,0 +1,21 @@
+[
+  {"pageKey": "ppt-1", "title": "封面", "url": "/index.html?page=1", "poster": "/assets/images/posters/pages/page-1.png", "pageNum": 1},
+  {"pageKey": "ppt-2", "title": "目录", "url": "/index.html?page=2", "poster": "/assets/images/posters/pages/page-2.png", "pageNum": 2},
+  {"pageKey": "ppt-3", "title": "行业痛点", "url": "/index.html?page=3", "poster": "/assets/images/posters/pages/page-3.png", "pageNum": 3},
+  {"pageKey": "ppt-4", "title": "合规现状", "url": "/index.html?page=4", "poster": "/assets/images/posters/pages/page-4.png", "pageNum": 4},
+  {"pageKey": "ppt-5", "title": "传统检测困境", "url": "/index.html?page=5", "poster": "/assets/images/posters/pages/page-5.png", "pageNum": 5},
+  {"pageKey": "ppt-6", "title": "产品方案", "url": "/index.html?page=6", "poster": "/assets/images/posters/pages/page-6.png", "pageNum": 6},
+  {"pageKey": "ppt-7", "title": "核心能力", "url": "/index.html?page=7", "poster": "/assets/images/posters/pages/page-7.png", "pageNum": 7},
+  {"pageKey": "ppt-8", "title": "Agent体系", "url": "/index.html?page=8", "poster": "/assets/images/posters/pages/page-8.png", "pageNum": 8},
+  {"pageKey": "ppt-9", "title": "检测体系", "url": "/index.html?page=9", "poster": "/assets/images/posters/pages/page-9.png", "pageNum": 9},
+  {"pageKey": "ppt-10", "title": "命名与字段规范", "url": "/index.html?page=10", "poster": "/assets/images/posters/pages/page-10.png", "pageNum": 10},
+  {"pageKey": "ppt-11", "title": "索引设计与安全", "url": "/index.html?page=11", "poster": "/assets/images/posters/pages/page-11.png", "pageNum": 11},
+  {"pageKey": "ppt-12", "title": "评分报告", "url": "/index.html?page=12", "poster": "/assets/images/posters/pages/page-12.png", "pageNum": 12},
+  {"pageKey": "ppt-13", "title": "技术架构", "url": "/index.html?page=13", "poster": "/assets/images/posters/pages/page-13.png", "pageNum": 13},
+  {"pageKey": "ppt-14", "title": "架构详情", "url": "/index.html?page=14", "poster": "/assets/images/posters/pages/page-14.png", "pageNum": 14},
+  {"pageKey": "ppt-15", "title": "演示场景", "url": "/index.html?page=15", "poster": "/assets/images/posters/pages/page-15.png", "pageNum": 15},
+  {"pageKey": "ppt-16", "title": "使用流程", "url": "/index.html?page=16", "poster": "/assets/images/posters/pages/page-16.png", "pageNum": 16},
+  {"pageKey": "ppt-17", "title": "未来展望", "url": "/index.html?page=17", "poster": "/assets/images/posters/pages/page-17.png", "pageNum": 17},
+  {"pageKey": "ppt-18", "title": "趋势与规划", "url": "/index.html?page=18", "poster": "/assets/images/posters/pages/page-18.png", "pageNum": 18},
+  {"pageKey": "ppt-19", "title": "结束页", "url": "/index.html?page=19", "poster": "/assets/images/posters/pages/page-19.png", "pageNum": 19}
+]

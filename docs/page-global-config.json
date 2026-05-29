@@ -1,0 +1,14 @@
+{
+  "slideStyle": "tech",
+  "colorScheme": "Modern Tech Dark",
+  "primaryColor": "#0d9488",
+  "accentColor1": "#7c3aed",
+  "accentColor2": "#ea580c",
+  "neutralColor": "#5F6368",
+  "background": {
+    "type": "color",
+    "value": "#0B1120"
+  },
+  "fontTitle": "'Douyin Sans', sans-serif",
+  "fontBody": "'Douyin Sans', sans-serif"
+}
